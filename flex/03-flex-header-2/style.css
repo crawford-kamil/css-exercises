@@ -54,3 +54,9 @@ ul {
   padding: 0px;
   margin: 0px;
 }
+
+.right-side-elements {
+  display: flex;
+  background-color: red;
+  gap: 16px;
+}
